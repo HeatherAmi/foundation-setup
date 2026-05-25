@@ -1,5 +1,18 @@
 # Foundation Setup
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In_progress-yellow?style=flat-square)
+![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+[![YouTube](https://img.shields.io/badge/Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HeatherAmiDigital)
+
+</div>
+
+
 One-time setup for a Power Platform learning and demo ecosystem. This repo documents how to build a clean Microsoft 365 and Power Platform environment from scratch, so every other project I publish has a known, repeatable starting point.
 
 If you are following along with any of my certification or training repos, complete the relevant modules below first, or have an equivalent setup of your own.
